@@ -62,7 +62,6 @@ I am a Ph.D. candidate in **Computer Science and Information Engineering** at **
 ---
 
 ## 🧩 Selected Projects
-> ⭐ Tip: Pin 3–6 of these repositories on your GitHub profile.
 
 ### 🛰️ Distributed AI, Edge Networks & Orchestration
 - **🤖 Autonomous Multi-Objective MARL for Topology-Aware VNF Placement, Migration & Self-Healing in Resilient Edge Networks** *(Ongoing, CCU)*  
