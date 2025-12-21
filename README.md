@@ -161,3 +161,6 @@ I am a Ph.D. candidate in **Computer Science and Information Engineering** at **
 - 📈 **Monitoring:** Prometheus, Grafana  
 - 🐧 **Tools & Systems:** Linux, Shell Scripting, Jupyter, VS Code  
 
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Nithinmelala&color=blue)
