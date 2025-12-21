@@ -1,10 +1,6 @@
 <!-- =========================
      GitHub Profile README (Icon-rich + Professional + PDF Badge Links)
      Replace <...> placeholders with your real links.
-
-<p align="center">
-  <img src="assets/Cover Photo.jpg" alt="Profile banner" width="1200" />
-</p>
 ========================= -->
 
 <!-- Banner -->
